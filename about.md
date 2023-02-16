@@ -1,7 +1,7 @@
 ---
 layout: inner
-title: About
-permalink: /about/
+title: Turkce
+permalink: /turkish/
 ---
 ## Markdown
 

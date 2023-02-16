@@ -5,4 +5,5 @@ gemspec
 gem "kramdown-parser-gfm"
 gem "webrick"
 gem "rexml"
+gem "github-pages" 
 

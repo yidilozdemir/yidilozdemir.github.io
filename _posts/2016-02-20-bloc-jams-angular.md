@@ -1,13 +1,12 @@
 ---
 layout: inner
 position: right
-title: 'Bloc Jams Angular'
-date: 2016-02-20 14:15:00
+title: 'Sample project from my work at UCL Advanced Centre for Research Computing'
 categories: development
-tags: JavaScript AngularJS Sass Grunt
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs/bloc-jams-angular'
+tags: Python Medical Imaging
+featured_image: '/img/posts/RILD_pipeline_paper.png'
+project_link: 'https://github.com/UCL/RILD_pipeline'
 button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A digital music player built using AngularJS'
+button_text: 'Private Project link'
+lead_text: 'Automating image analysis pipelines for large scale studies of radiation induced lung damage'
 ---

@@ -16,7 +16,7 @@
 title: "Hello. I'm Yagmur Idil Ozdemir."
 email: 'yagmuriozdemir96@gmail.com'
 description: "I'm a research software developer with a background in neurosciences and an interest in mental health and immersive technologies."
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yidilozdemir.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'yidilozdemir'
 
